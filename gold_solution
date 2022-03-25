@@ -27,6 +27,8 @@ color_sensor = ColorSensor(Port.S4)
 
 robot = DriveBase(left_motor,right_motor,160,114)
 
+#je rajoute juste des commentaires 
+
 
 dist_park = 0
 a = 0 
